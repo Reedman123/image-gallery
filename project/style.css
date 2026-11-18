@@ -1,3 +1,14 @@
 body {
-    background-color: bisque;
+    background-color: #E1BB80;
+    color: #352208;
+    font-family: "Forum", serif;
+}
+figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid #352208;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 5px;
 }
